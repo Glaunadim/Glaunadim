@@ -1,4 +1,5 @@
-<a href="https://ibb.co.com/Z6JXVshf"><img src="https://i.ibb.co.com/Y7WQ39tN/Untitled-1-01.jpg" alt="Untitled-1-01" border="0"></a>
+<img src="https://i.ibb.co.com/Y7WQ39tN/Untitled-1-01.jpg" width="100%" alt="Banner-02">
+
 ## Hey, I'm Nadim Mahmud!  
 With over a decade of experience, I've honed my skills in crafting top-notch proprietary enterprise software products. My journey is all about utilizing diverse technologies to design, develop, and deploy enterprise-class solutions while gaining deep insights into customers' needs and product usage.Leading and mentoring teams, I establish coding standards and UI best practices. My extensive app development background ensures I'm always at the forefront of innovative UI engineering.
 -   Currently learning **Python** using Coddex
