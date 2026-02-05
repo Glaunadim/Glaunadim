@@ -29,9 +29,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Quick Bits  
-<table><tr><td valign="top" width="50%">
-
+## Rapidfire  
 - I’m currently learning Phytohon using Coddex.  
   
 
@@ -42,13 +40,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
   
 
 - A pro-procrastinator who conquers the entire syllabus in a single night!  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+  
 
 <br/>  
 
