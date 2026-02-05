@@ -77,15 +77,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br/>  
 
-<table><tr><td valign="top" width="50%">
-
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
@@ -101,5 +92,3 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
