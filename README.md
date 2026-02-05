@@ -1,11 +1,6 @@
 <h1 align="center">Hello this is Nadim</h1>
 <h3 align="center">a Tech-Driven Science Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=glaunadim&label=Profile%20views&color=0e75b6&style=flat" alt="glaunadim" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - I’m currently learning **ML using python**
 
 - Ask me about **C++ and C**
