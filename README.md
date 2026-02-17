@@ -7,16 +7,8 @@ With over a decade of experience, I've honed my skills in crafting top-notch pro
 
 
 ## Lest Connect:
-<a href="https://facebook.com/@pronadimmahmud" target="_blank">
-  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%23000000.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/abutahernadim-mahmud" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
-</a>
-
-
-
+[<img alt="Facebook" src="https://img.shields.io/badge/Facebook-%23000000.svg?&style=for-the-badge&logo=Facebook&logoColor=white" />](https://facebook.com/@pronadimmahmud)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://linkedin.com/in/abutahernadim-mahmud)
 
 
 
