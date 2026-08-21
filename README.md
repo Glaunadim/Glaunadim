@@ -1,5 +1,7 @@
 ## Hey, I'm Nadim Mahmud!  
-With over a decade of experience, I've honed my skills in crafting top-notch proprietary enterprise software products. My journey is all about utilizing diverse technologies to design, develop, and deploy enterprise-class solutions while gaining deep insights into customers' needs and product usage.Leading and mentoring teams, I establish coding standards and UI best practices. My extensive app development background ensures I'm always at the forefront of innovative UI engineering.
+I am a passionate Computer and Communication Engineering student with a solid background in programming and software development, working with technologies like C, Python, HTML, and CSS.
+
+Beyond coding, I enjoy building creative web utilities, experimenting with minimalist UI design, and crafting cinematic digital content. I actively collaborate with peers on innovative projects and practical solutions, always eager to learn, build, and explore modern technology.
 -   Currently learning **Python** using Coddex
 -   Iam Currently solving problem with **C**
 -   Pore likhbo bakita
